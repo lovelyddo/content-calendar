@@ -1,0 +1,1266 @@
+{
+  "revision": "seongbuk-2026-v1",
+  "year": 2026,
+  "events": [
+    {
+      "id": "seongbuk-001",
+      "title": "새해",
+      "category": "season",
+      "sourcePeriod": "1/1",
+      "status": "고정",
+      "month": 1,
+      "start": "2026-01-01",
+      "end": "2026-01-01",
+      "note": "원문: 1/1 / 고정"
+    },
+    {
+      "id": "seongbuk-003",
+      "title": "방학 아르바이트·자격증 준비",
+      "category": "student",
+      "sourcePeriod": "1월",
+      "status": "시즌",
+      "month": 1,
+      "start": "2026-01-01",
+      "end": "2026-01-31",
+      "note": "원문: 1월 / 시즌 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-004",
+      "title": "한파·눈·겨울 간식 시즌",
+      "category": "season",
+      "sourcePeriod": "1월",
+      "status": "날씨에 따라",
+      "month": 1,
+      "start": "2026-01-01",
+      "end": "2026-01-31",
+      "note": "원문: 1월 / 날씨에 따라 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-005",
+      "title": "새해 동네 취미 콘텐츠 발행",
+      "category": "promotion",
+      "sourcePeriod": "1월 초",
+      "status": "제안",
+      "month": 1,
+      "start": "2026-01-01",
+      "end": "2026-01-10",
+      "note": "원문: 1월 초 / 제안 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-006",
+      "title": "졸업식 꽃·가족 식사 취재",
+      "category": "promotion",
+      "sourcePeriod": "1월 중순",
+      "status": "제안",
+      "month": 1,
+      "start": "2026-01-11",
+      "end": "2026-01-20",
+      "note": "원문: 1월 중순 / 제안 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-007",
+      "title": "새내기·첫 자취 콘텐츠 섭외",
+      "category": "promotion",
+      "sourcePeriod": "1월 말",
+      "status": "제안",
+      "month": 1,
+      "start": "2026-01-21",
+      "end": "2026-01-31",
+      "note": "원문: 1월 말 / 제안 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-008",
+      "title": "밸런타인데이",
+      "category": "season",
+      "sourcePeriod": "2/14",
+      "status": "고정",
+      "month": 2,
+      "start": "2026-02-14",
+      "end": "2026-02-14",
+      "note": "원문: 2/14 / 고정"
+    },
+    {
+      "id": "seongbuk-013",
+      "title": "복학·새 학기 준비",
+      "category": "student",
+      "sourcePeriod": "2월",
+      "status": "시즌",
+      "month": 2,
+      "start": "2026-02-01",
+      "end": "2026-02-28",
+      "note": "원문: 2월 / 시즌 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-014",
+      "title": "졸업식 꽃·가족 식사 콘텐츠 발행",
+      "category": "promotion",
+      "sourcePeriod": "2월 초",
+      "status": "제안",
+      "month": 2,
+      "start": "2026-02-01",
+      "end": "2026-02-10",
+      "note": "원문: 2월 초 / 제안 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-015",
+      "title": "첫 자취 생활 지도 발행",
+      "category": "promotion",
+      "sourcePeriod": "2월 중순",
+      "status": "제안",
+      "month": 2,
+      "start": "2026-02-11",
+      "end": "2026-02-20",
+      "note": "원문: 2월 중순 / 제안 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-016",
+      "title": "새내기 성북 입문 콘텐츠 발행",
+      "category": "promotion",
+      "sourcePeriod": "2월 말",
+      "status": "제안",
+      "month": 2,
+      "start": "2026-02-21",
+      "end": "2026-02-28",
+      "note": "원문: 2월 말 / 제안 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-017",
+      "title": "삼일절",
+      "category": "season",
+      "sourcePeriod": "3/1",
+      "status": "고정",
+      "month": 3,
+      "start": "2026-03-01",
+      "end": "2026-03-01",
+      "note": "원문: 3/1 / 고정"
+    },
+    {
+      "id": "seongbuk-018",
+      "title": "세계 여성의 날",
+      "category": "season",
+      "sourcePeriod": "3/8",
+      "status": "고정",
+      "month": 3,
+      "start": "2026-03-08",
+      "end": "2026-03-08",
+      "note": "원문: 3/8 / 고정"
+    },
+    {
+      "id": "seongbuk-019",
+      "title": "화이트데이",
+      "category": "season",
+      "sourcePeriod": "3/14",
+      "status": "고정",
+      "month": 3,
+      "start": "2026-03-14",
+      "end": "2026-03-14",
+      "note": "원문: 3/14 / 고정"
+    },
+    {
+      "id": "seongbuk-023",
+      "title": "새 친구·밥약·첫 팀플 시즌",
+      "category": "student",
+      "sourcePeriod": "3월",
+      "status": "시즌",
+      "month": 3,
+      "start": "2026-03-01",
+      "end": "2026-03-31",
+      "note": "원문: 3월 / 시즌 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-024",
+      "title": "일교차·미세먼지 대응 콘텐츠",
+      "category": "season",
+      "sourcePeriod": "3월",
+      "status": "날씨에 따라",
+      "month": 3,
+      "start": "2026-03-01",
+      "end": "2026-03-31",
+      "note": "원문: 3월 / 날씨에 따라 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-025",
+      "title": "학교별 공강·혼밥 지도 발행",
+      "category": "promotion",
+      "sourcePeriod": "3월 초",
+      "status": "제안",
+      "month": 3,
+      "start": "2026-03-01",
+      "end": "2026-03-10",
+      "note": "원문: 3월 초 / 제안 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-026",
+      "title": "봄 산책 동선 답사",
+      "category": "promotion",
+      "sourcePeriod": "3월 중순",
+      "status": "제안",
+      "month": 3,
+      "start": "2026-03-11",
+      "end": "2026-03-20",
+      "note": "원문: 3월 중순 / 제안 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-027",
+      "title": "봄꽃 현장 확인·촬영",
+      "category": "promotion",
+      "sourcePeriod": "3월 말",
+      "status": "개화에 따라",
+      "month": 3,
+      "start": "2026-03-21",
+      "end": "2026-03-31",
+      "note": "원문: 3월 말 / 개화에 따라 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-028",
+      "title": "만우절",
+      "category": "season",
+      "sourcePeriod": "4/1",
+      "status": "고정·선택 활용",
+      "month": 4,
+      "start": "2026-04-01",
+      "end": "2026-04-01",
+      "note": "원문: 4/1 / 고정·선택 활용"
+    },
+    {
+      "id": "seongbuk-029",
+      "title": "지구의 날",
+      "category": "season",
+      "sourcePeriod": "4/22",
+      "status": "고정",
+      "month": 4,
+      "start": "2026-04-22",
+      "end": "2026-04-22",
+      "note": "원문: 4/22 / 고정"
+    },
+    {
+      "id": "seongbuk-030",
+      "title": "세계 책과 저작권의 날",
+      "category": "season",
+      "sourcePeriod": "4/23",
+      "status": "고정",
+      "month": 4,
+      "start": "2026-04-23",
+      "end": "2026-04-23",
+      "note": "원문: 4/23 / 고정"
+    },
+    {
+      "id": "seongbuk-032",
+      "title": "봄 산책·피크닉 시즌",
+      "category": "season",
+      "sourcePeriod": "4월",
+      "status": "날씨에 따라",
+      "month": 4,
+      "start": "2026-04-01",
+      "end": "2026-04-30",
+      "note": "원문: 4월 / 날씨에 따라 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-034",
+      "title": "봄꽃·골목 산책 콘텐츠 발행",
+      "category": "promotion",
+      "sourcePeriod": "4월 초",
+      "status": "현장 확인 후",
+      "month": 4,
+      "start": "2026-04-01",
+      "end": "2026-04-10",
+      "note": "원문: 4월 초 / 현장 확인 후 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-036",
+      "title": "동네 서점·수선 가게 인터뷰 발행",
+      "category": "promotion",
+      "sourcePeriod": "4월 중순",
+      "status": "제안",
+      "month": 4,
+      "start": "2026-04-11",
+      "end": "2026-04-20",
+      "note": "원문: 4월 중순 / 제안 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-037",
+      "title": "어버이날 선물·식사 콘텐츠 촬영",
+      "category": "promotion",
+      "sourcePeriod": "4월 중~하순",
+      "status": "제안",
+      "month": 4,
+      "start": "2026-04-11",
+      "end": "2026-04-30",
+      "note": "원문: 4월 중~하순 / 제안 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-038",
+      "title": "어버이날 선물 콘텐츠 발행",
+      "category": "promotion",
+      "sourcePeriod": "4월 말",
+      "status": "주문 기간 고려",
+      "month": 4,
+      "start": "2026-04-21",
+      "end": "2026-04-30",
+      "note": "원문: 4월 말 / 주문 기간 고려 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-039",
+      "title": "어린이날",
+      "category": "season",
+      "sourcePeriod": "5/5",
+      "status": "고정",
+      "month": 5,
+      "start": "2026-05-05",
+      "end": "2026-05-05",
+      "note": "원문: 5/5 / 고정"
+    },
+    {
+      "id": "seongbuk-040",
+      "title": "어버이날",
+      "category": "season",
+      "sourcePeriod": "5/8",
+      "status": "고정",
+      "month": 5,
+      "start": "2026-05-08",
+      "end": "2026-05-08",
+      "note": "원문: 5/8 / 고정"
+    },
+    {
+      "id": "seongbuk-041",
+      "title": "스승의 날",
+      "category": "season",
+      "sourcePeriod": "5/15",
+      "status": "고정",
+      "month": 5,
+      "start": "2026-05-15",
+      "end": "2026-05-15",
+      "note": "원문: 5/15 / 고정"
+    },
+    {
+      "id": "seongbuk-042",
+      "title": "성년의 날",
+      "category": "season",
+      "sourcePeriod": "5월 셋째 월요일",
+      "status": "연도별 날짜 환산",
+      "month": 5,
+      "start": "2026-05-18",
+      "end": "2026-05-18",
+      "note": "원문: 5월 셋째 월요일 / 연도별 날짜 환산 · 2026년 5월 18일"
+    },
+    {
+      "id": "seongbuk-044",
+      "title": "야외 활동·피크닉 시즌",
+      "category": "season",
+      "sourcePeriod": "5월",
+      "status": "날씨에 따라",
+      "month": 5,
+      "start": "2026-05-01",
+      "end": "2026-05-31",
+      "note": "원문: 5월 / 날씨에 따라 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-045",
+      "title": "부모님과 방문할 성북 콘텐츠 발행",
+      "category": "promotion",
+      "sourcePeriod": "5월 초",
+      "status": "제안",
+      "month": 5,
+      "start": "2026-05-01",
+      "end": "2026-05-10",
+      "note": "원문: 5월 초 / 제안 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-047",
+      "title": "기말고사·장마 콘텐츠 취재",
+      "category": "promotion",
+      "sourcePeriod": "5월 중순",
+      "status": "제안",
+      "month": 5,
+      "start": "2026-05-11",
+      "end": "2026-05-20",
+      "note": "원문: 5월 중순 / 제안 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-048",
+      "title": "여름방학 취미·체험 섭외",
+      "category": "promotion",
+      "sourcePeriod": "5월 말",
+      "status": "제안",
+      "month": 5,
+      "start": "2026-05-21",
+      "end": "2026-05-31",
+      "note": "원문: 5월 말 / 제안 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-049",
+      "title": "세계 환경의 날",
+      "category": "season",
+      "sourcePeriod": "6/5",
+      "status": "고정",
+      "month": 6,
+      "start": "2026-06-05",
+      "end": "2026-06-05",
+      "note": "원문: 6/5 / 고정"
+    },
+    {
+      "id": "seongbuk-050",
+      "title": "현충일",
+      "category": "season",
+      "sourcePeriod": "6/6",
+      "status": "고정",
+      "month": 6,
+      "start": "2026-06-06",
+      "end": "2026-06-06",
+      "note": "원문: 6/6 / 고정"
+    },
+    {
+      "id": "seongbuk-051",
+      "title": "세계 음악의 날",
+      "category": "season",
+      "sourcePeriod": "6/21",
+      "status": "고정",
+      "month": 6,
+      "start": "2026-06-21",
+      "end": "2026-06-21",
+      "note": "원문: 6/21 / 고정"
+    },
+    {
+      "id": "seongbuk-058",
+      "title": "장마철 실내 동선 촬영",
+      "category": "promotion",
+      "sourcePeriod": "6월 중순",
+      "status": "제안",
+      "month": 6,
+      "start": "2026-06-11",
+      "end": "2026-06-20",
+      "note": "원문: 6월 중순 / 제안 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-059",
+      "title": "방학 취미·혼자 놀기 콘텐츠 발행",
+      "category": "promotion",
+      "sourcePeriod": "6월 말",
+      "status": "제안",
+      "month": 6,
+      "start": "2026-06-21",
+      "end": "2026-06-30",
+      "note": "원문: 6월 말 / 제안 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-062",
+      "title": "장마·폭염 대응 시즌",
+      "category": "season",
+      "sourcePeriod": "7월",
+      "status": "기상 확인",
+      "month": 7,
+      "start": "2026-07-01",
+      "end": "2026-07-31",
+      "note": "원문: 7월 / 기상 확인 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-064",
+      "title": "비 오는 날 실내 코스 발행",
+      "category": "promotion",
+      "sourcePeriod": "7월 초",
+      "status": "날씨 연동",
+      "month": 7,
+      "start": "2026-07-01",
+      "end": "2026-07-10",
+      "note": "원문: 7월 초 / 날씨 연동 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-065",
+      "title": "여름 메뉴·가게 운영자 인터뷰 발행",
+      "category": "promotion",
+      "sourcePeriod": "7월 중순",
+      "status": "제안",
+      "month": 7,
+      "start": "2026-07-11",
+      "end": "2026-07-20",
+      "note": "원문: 7월 중순 / 제안 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-066",
+      "title": "방학에 배우는 동네 취미 발행",
+      "category": "promotion",
+      "sourcePeriod": "7월 중~하순",
+      "status": "제안",
+      "month": 7,
+      "start": "2026-07-11",
+      "end": "2026-07-31",
+      "note": "원문: 7월 중~하순 / 제안 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-067",
+      "title": "후기 졸업·복학 콘텐츠 취재",
+      "category": "promotion",
+      "sourcePeriod": "7월 말",
+      "status": "제안",
+      "month": 7,
+      "start": "2026-07-21",
+      "end": "2026-07-31",
+      "note": "원문: 7월 말 / 제안 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-068",
+      "title": "광복절",
+      "category": "season",
+      "sourcePeriod": "8/15",
+      "status": "고정",
+      "month": 8,
+      "start": "2026-08-15",
+      "end": "2026-08-15",
+      "note": "원문: 8/15 / 고정"
+    },
+    {
+      "id": "seongbuk-069",
+      "title": "폭염·늦여름 시즌",
+      "category": "season",
+      "sourcePeriod": "8월",
+      "status": "기상 확인",
+      "month": 8,
+      "start": "2026-08-01",
+      "end": "2026-08-31",
+      "note": "원문: 8월 / 기상 확인 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-075",
+      "title": "여름 끝나기 전 동네 경험 발행",
+      "category": "promotion",
+      "sourcePeriod": "8월 중순",
+      "status": "제안",
+      "month": 8,
+      "start": "2026-08-11",
+      "end": "2026-08-20",
+      "note": "원문: 8월 중순 / 제안 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-076",
+      "title": "가을학기 공강 지도 정보 갱신",
+      "category": "promotion",
+      "sourcePeriod": "8월 중순",
+      "status": "제안",
+      "month": 8,
+      "start": "2026-08-11",
+      "end": "2026-08-20",
+      "note": "원문: 8월 중순 / 제안 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-077",
+      "title": "복학생·개강 준비 콘텐츠 발행",
+      "category": "promotion",
+      "sourcePeriod": "8월 말",
+      "status": "제안",
+      "month": 8,
+      "start": "2026-08-21",
+      "end": "2026-08-31",
+      "note": "원문: 8월 말 / 제안 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-078",
+      "title": "독서의 달",
+      "category": "season",
+      "sourcePeriod": "9월",
+      "status": "월간",
+      "month": 9,
+      "start": "2026-09-01",
+      "end": "2026-09-30",
+      "note": "원문: 9월 / 월간 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-083",
+      "title": "가을 산책·선선한 저녁 시즌",
+      "category": "season",
+      "sourcePeriod": "9월",
+      "status": "날씨에 따라",
+      "month": 9,
+      "start": "2026-09-01",
+      "end": "2026-09-30",
+      "note": "원문: 9월 / 날씨에 따라 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-084",
+      "title": "가을학기 공강·밥약 콘텐츠 발행",
+      "category": "promotion",
+      "sourcePeriod": "9월 초",
+      "status": "제안",
+      "month": 9,
+      "start": "2026-09-01",
+      "end": "2026-09-10",
+      "note": "원문: 9월 초 / 제안 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-085",
+      "title": "동네 서점·독서모임 콘텐츠 발행",
+      "category": "promotion",
+      "sourcePeriod": "9월 중순",
+      "status": "제안",
+      "month": 9,
+      "start": "2026-09-11",
+      "end": "2026-09-20",
+      "note": "원문: 9월 중순 / 제안 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-087",
+      "title": "단풍 동선·가을 공간 답사",
+      "category": "promotion",
+      "sourcePeriod": "9월 말",
+      "status": "제안",
+      "month": 9,
+      "start": "2026-09-21",
+      "end": "2026-09-30",
+      "note": "원문: 9월 말 / 제안 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-088",
+      "title": "세계 커피의 날",
+      "category": "season",
+      "sourcePeriod": "10/1",
+      "status": "고정",
+      "month": 10,
+      "start": "2026-10-01",
+      "end": "2026-10-01",
+      "note": "원문: 10/1 / 고정"
+    },
+    {
+      "id": "seongbuk-089",
+      "title": "개천절",
+      "category": "season",
+      "sourcePeriod": "10/3",
+      "status": "고정",
+      "month": 10,
+      "start": "2026-10-03",
+      "end": "2026-10-03",
+      "note": "원문: 10/3 / 고정"
+    },
+    {
+      "id": "seongbuk-090",
+      "title": "한글날",
+      "category": "season",
+      "sourcePeriod": "10/9",
+      "status": "고정",
+      "month": 10,
+      "start": "2026-10-09",
+      "end": "2026-10-09",
+      "note": "원문: 10/9 / 고정"
+    },
+    {
+      "id": "seongbuk-091",
+      "title": "핼러윈",
+      "category": "season",
+      "sourcePeriod": "10/31",
+      "status": "관련 행사 있을 때 활용",
+      "month": 10,
+      "start": "2026-10-31",
+      "end": "2026-10-31",
+      "note": "원문: 10/31 / 관련 행사 있을 때 활용"
+    },
+    {
+      "id": "seongbuk-092",
+      "title": "단풍·가을 나들이 시즌",
+      "category": "season",
+      "sourcePeriod": "10월",
+      "status": "현장 확인",
+      "month": 10,
+      "start": "2026-10-01",
+      "end": "2026-10-31",
+      "note": "원문: 10월 / 현장 확인 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-095",
+      "title": "커피·문학·글쓰기 공간 콘텐츠 발행",
+      "category": "promotion",
+      "sourcePeriod": "10월 초",
+      "status": "제안",
+      "month": 10,
+      "start": "2026-10-01",
+      "end": "2026-10-10",
+      "note": "원문: 10월 초 / 제안 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-098",
+      "title": "겨울 선물·연말 공간 섭외",
+      "category": "promotion",
+      "sourcePeriod": "10월 말",
+      "status": "제안",
+      "month": 10,
+      "start": "2026-10-21",
+      "end": "2026-10-31",
+      "note": "원문: 10월 말 / 제안 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-099",
+      "title": "빼빼로데이·농업인의 날",
+      "category": "season",
+      "sourcePeriod": "11/11",
+      "status": "기획별 선택",
+      "month": 11,
+      "start": "2026-11-11",
+      "end": "2026-11-11",
+      "note": "원문: 11/11 / 기획별 선택"
+    },
+    {
+      "id": "seongbuk-101",
+      "title": "늦가을·첫 추위·겨울 준비",
+      "category": "season",
+      "sourcePeriod": "11월",
+      "status": "날씨에 따라",
+      "month": 11,
+      "start": "2026-11-01",
+      "end": "2026-11-30",
+      "note": "원문: 11월 / 날씨에 따라 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-102",
+      "title": "과제·발표 집중 시즌",
+      "category": "student",
+      "sourcePeriod": "11월",
+      "status": "학교·수업별 상이",
+      "month": 11,
+      "start": "2026-11-01",
+      "end": "2026-11-30",
+      "note": "원문: 11월 / 학교·수업별 상이 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-105",
+      "title": "겨울 간식·따뜻한 식사 취재",
+      "category": "promotion",
+      "sourcePeriod": "11월 초",
+      "status": "제안",
+      "month": 11,
+      "start": "2026-11-01",
+      "end": "2026-11-10",
+      "note": "원문: 11월 초 / 제안 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-107",
+      "title": "연말 선물·모임 공간 콘텐츠 발행",
+      "category": "promotion",
+      "sourcePeriod": "11월 중~하순",
+      "status": "예약·주문 기간 고려",
+      "month": 11,
+      "start": "2026-11-11",
+      "end": "2026-11-30",
+      "note": "원문: 11월 중~하순 / 예약·주문 기간 고려 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-108",
+      "title": "크리스마스·겨울방학 콘텐츠 촬영",
+      "category": "promotion",
+      "sourcePeriod": "11월 말",
+      "status": "제안",
+      "month": 11,
+      "start": "2026-11-21",
+      "end": "2026-11-30",
+      "note": "원문: 11월 말 / 제안 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-109",
+      "title": "크리스마스",
+      "category": "season",
+      "sourcePeriod": "12/25",
+      "status": "고정",
+      "month": 12,
+      "start": "2026-12-25",
+      "end": "2026-12-25",
+      "note": "원문: 12/25 / 고정"
+    },
+    {
+      "id": "seongbuk-110",
+      "title": "연말",
+      "category": "season",
+      "sourcePeriod": "12/31",
+      "status": "고정",
+      "month": 12,
+      "start": "2026-12-31",
+      "end": "2026-12-31",
+      "note": "원문: 12/31 / 고정"
+    },
+    {
+      "id": "seongbuk-111",
+      "title": "겨울 선물·송년 모임 시즌",
+      "category": "season",
+      "sourcePeriod": "12월",
+      "status": "시즌",
+      "month": 12,
+      "start": "2026-12-01",
+      "end": "2026-12-31",
+      "note": "원문: 12월 / 시즌 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-112",
+      "title": "한파·눈·겨울 간식 시즌",
+      "category": "season",
+      "sourcePeriod": "12월",
+      "status": "날씨에 따라",
+      "month": 12,
+      "start": "2026-12-01",
+      "end": "2026-12-31",
+      "note": "원문: 12월 / 날씨에 따라 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-116",
+      "title": "크리스마스 선물·동네 코스 발행",
+      "category": "promotion",
+      "sourcePeriod": "12월 초",
+      "status": "주문·예약 기간 고려",
+      "month": 12,
+      "start": "2026-12-01",
+      "end": "2026-12-10",
+      "note": "원문: 12월 초 / 주문·예약 기간 고려 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-119",
+      "title": "독자 선정 올해의 성북 투표",
+      "category": "promotion",
+      "sourcePeriod": "12월 중순",
+      "status": "제안",
+      "month": 12,
+      "start": "2026-12-11",
+      "end": "2026-12-20",
+      "note": "원문: 12월 중순 / 제안 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-120",
+      "title": "올해의 장소·인터뷰 결산 발행",
+      "category": "promotion",
+      "sourcePeriod": "12월 말",
+      "status": "제안",
+      "month": 12,
+      "start": "2026-12-21",
+      "end": "2026-12-31",
+      "note": "원문: 12월 말 / 제안 · 예시 기간, 실제 일정에 맞게 조정"
+    },
+    {
+      "id": "seongbuk-121",
+      "title": "다음 해 캘린더 갱신",
+      "category": "promotion",
+      "sourcePeriod": "12월 말",
+      "status": "제안",
+      "month": 12,
+      "start": "2026-12-21",
+      "end": "2026-12-31",
+      "note": "원문: 12월 말 / 제안 · 예시 기간, 실제 일정에 맞게 조정"
+    }
+  ],
+  "pending": [
+    {
+      "id": "seongbuk-002",
+      "title": "겨울방학·겨울 계절학기",
+      "category": "student",
+      "sourcePeriod": "1월",
+      "status": "학교별 확인",
+      "month": 1
+    },
+    {
+      "id": "seongbuk-009",
+      "title": "전기 졸업식",
+      "category": "student",
+      "sourcePeriod": "2월",
+      "status": "학교별 확인",
+      "month": 2
+    },
+    {
+      "id": "seongbuk-010",
+      "title": "1학기 수강신청",
+      "category": "student",
+      "sourcePeriod": "2월",
+      "status": "학교별 확인",
+      "month": 2
+    },
+    {
+      "id": "seongbuk-011",
+      "title": "신입생 OT·새터",
+      "category": "student",
+      "sourcePeriod": "2월",
+      "status": "학교별 확인",
+      "month": 2
+    },
+    {
+      "id": "seongbuk-012",
+      "title": "기숙사 입주·자취방 이사",
+      "category": "student",
+      "sourcePeriod": "2월",
+      "status": "학교별·개인별 상이",
+      "month": 2
+    },
+    {
+      "id": "seongbuk-020",
+      "title": "입학식·1학기 개강",
+      "category": "student",
+      "sourcePeriod": "3월 초",
+      "status": "학교별 확인",
+      "month": 3
+    },
+    {
+      "id": "seongbuk-021",
+      "title": "수강 정정",
+      "category": "student",
+      "sourcePeriod": "3월 초",
+      "status": "학교별 확인",
+      "month": 3
+    },
+    {
+      "id": "seongbuk-022",
+      "title": "동아리 모집",
+      "category": "student",
+      "sourcePeriod": "3월 초~중순",
+      "status": "학교별 확인",
+      "month": 3
+    },
+    {
+      "id": "seongbuk-031",
+      "title": "벚꽃·봄꽃 시즌",
+      "category": "season",
+      "sourcePeriod": "4월 전후",
+      "status": "개화 확인",
+      "month": 4
+    },
+    {
+      "id": "seongbuk-033",
+      "title": "1학기 중간고사",
+      "category": "student",
+      "sourcePeriod": "4월 중~하순",
+      "status": "학교별 확인",
+      "month": 4
+    },
+    {
+      "id": "seongbuk-035",
+      "title": "시험기간 식사·휴식 지도 발행",
+      "category": "promotion",
+      "sourcePeriod": "시험 1주 전",
+      "status": "학교 일정 연동",
+      "month": 4
+    },
+    {
+      "id": "seongbuk-043",
+      "title": "봄 대학축제·동아리 공연",
+      "category": "student",
+      "sourcePeriod": "5월",
+      "status": "학교별 확인",
+      "month": 5
+    },
+    {
+      "id": "seongbuk-046",
+      "title": "대학축제 전후 동네 코스 발행",
+      "category": "promotion",
+      "sourcePeriod": "축제 1주 전",
+      "status": "학교 일정 연동",
+      "month": 5
+    },
+    {
+      "id": "seongbuk-052",
+      "title": "1학기 기말고사",
+      "category": "student",
+      "sourcePeriod": "6월 중~하순",
+      "status": "학교별 확인",
+      "month": 6
+    },
+    {
+      "id": "seongbuk-053",
+      "title": "종강·여름방학 시작",
+      "category": "student",
+      "sourcePeriod": "6월 중~하순",
+      "status": "학교별 확인",
+      "month": 6
+    },
+    {
+      "id": "seongbuk-054",
+      "title": "여름 계절학기·기숙사 퇴실",
+      "category": "student",
+      "sourcePeriod": "6월 하순 전후",
+      "status": "학교별 확인",
+      "month": 6
+    },
+    {
+      "id": "seongbuk-055",
+      "title": "장마 대비·초여름 시즌",
+      "category": "season",
+      "sourcePeriod": "6월 전후",
+      "status": "기상 확인",
+      "month": 6
+    },
+    {
+      "id": "seongbuk-056",
+      "title": "기말고사 식사·휴식 콘텐츠 발행",
+      "category": "promotion",
+      "sourcePeriod": "시험 1주 전",
+      "status": "학교 일정 연동",
+      "month": 6
+    },
+    {
+      "id": "seongbuk-057",
+      "title": "종강 후 친구와 갈 곳 발행",
+      "category": "promotion",
+      "sourcePeriod": "종강 직전",
+      "status": "학교 일정 연동",
+      "month": 6
+    },
+    {
+      "id": "seongbuk-060",
+      "title": "여름방학·계절학기",
+      "category": "student",
+      "sourcePeriod": "7월",
+      "status": "학교별 확인",
+      "month": 7
+    },
+    {
+      "id": "seongbuk-061",
+      "title": "인턴·아르바이트·공모전 시즌",
+      "category": "student",
+      "sourcePeriod": "7월",
+      "status": "개별 확인",
+      "month": 7
+    },
+    {
+      "id": "seongbuk-063",
+      "title": "복날·여름 먹거리 시즌",
+      "category": "season",
+      "sourcePeriod": "여름철",
+      "status": "초복·중복 날짜 확인",
+      "month": 7
+    },
+    {
+      "id": "seongbuk-070",
+      "title": "말복",
+      "category": "season",
+      "sourcePeriod": "여름철",
+      "status": "연도별 날짜 확인",
+      "month": 8
+    },
+    {
+      "id": "seongbuk-071",
+      "title": "후기 졸업식",
+      "category": "student",
+      "sourcePeriod": "8월",
+      "status": "학교별 확인",
+      "month": 8
+    },
+    {
+      "id": "seongbuk-072",
+      "title": "2학기 수강신청",
+      "category": "student",
+      "sourcePeriod": "8월",
+      "status": "학교별 확인",
+      "month": 8
+    },
+    {
+      "id": "seongbuk-073",
+      "title": "복학·기숙사 입주·자취방 이사",
+      "category": "student",
+      "sourcePeriod": "8월 말 전후",
+      "status": "학교별 확인",
+      "month": 8
+    },
+    {
+      "id": "seongbuk-074",
+      "title": "졸업 전 남길 성북 콘텐츠 발행",
+      "category": "promotion",
+      "sourcePeriod": "8월 초",
+      "status": "졸업 일정 연동",
+      "month": 8
+    },
+    {
+      "id": "seongbuk-079",
+      "title": "2학기 개강·수강 정정",
+      "category": "student",
+      "sourcePeriod": "9월 초",
+      "status": "학교별 확인",
+      "month": 9
+    },
+    {
+      "id": "seongbuk-080",
+      "title": "동아리 추가 모집·팀플 시작",
+      "category": "student",
+      "sourcePeriod": "9월",
+      "status": "학교별 확인",
+      "month": 9
+    },
+    {
+      "id": "seongbuk-081",
+      "title": "가을 대학축제·학교별 행사",
+      "category": "student",
+      "sourcePeriod": "9~10월 전후",
+      "status": "학교별 확인",
+      "month": 9
+    },
+    {
+      "id": "seongbuk-082",
+      "title": "취업박람회·채용설명회",
+      "category": "student",
+      "sourcePeriod": "9월 전후",
+      "status": "개별 공지 확인",
+      "month": 9
+    },
+    {
+      "id": "seongbuk-086",
+      "title": "가을 축제 전후 코스 발행",
+      "category": "promotion",
+      "sourcePeriod": "행사 1주 전",
+      "status": "행사 일정 연동",
+      "month": 9
+    },
+    {
+      "id": "seongbuk-093",
+      "title": "2학기 중간고사",
+      "category": "student",
+      "sourcePeriod": "10월 중~하순",
+      "status": "학교별 확인",
+      "month": 10
+    },
+    {
+      "id": "seongbuk-094",
+      "title": "졸업전시·학생 공연 준비",
+      "category": "student",
+      "sourcePeriod": "10월 전후",
+      "status": "학과별 확인",
+      "month": 10
+    },
+    {
+      "id": "seongbuk-096",
+      "title": "중간고사 식사·휴식 콘텐츠 발행",
+      "category": "promotion",
+      "sourcePeriod": "시험 1주 전",
+      "status": "학교 일정 연동",
+      "month": 10
+    },
+    {
+      "id": "seongbuk-097",
+      "title": "현재 단풍·산책 동선 발행",
+      "category": "promotion",
+      "sourcePeriod": "단풍 확인 후",
+      "status": "현장 연동",
+      "month": 10
+    },
+    {
+      "id": "seongbuk-100",
+      "title": "수능",
+      "category": "season",
+      "sourcePeriod": "11월",
+      "status": "해당 연도 일정 확인",
+      "month": 11
+    },
+    {
+      "id": "seongbuk-103",
+      "title": "졸업전시·졸업공연",
+      "category": "student",
+      "sourcePeriod": "11월 전후",
+      "status": "학과별 확인",
+      "month": 11
+    },
+    {
+      "id": "seongbuk-104",
+      "title": "학생회 선거",
+      "category": "student",
+      "sourcePeriod": "11월 전후",
+      "status": "학교별 확인",
+      "month": 11
+    },
+    {
+      "id": "seongbuk-106",
+      "title": "학생 창작자 인터뷰 발행",
+      "category": "promotion",
+      "sourcePeriod": "11월 중순",
+      "status": "전시·공연 일정 연동",
+      "month": 11
+    },
+    {
+      "id": "seongbuk-113",
+      "title": "2학기 기말고사",
+      "category": "student",
+      "sourcePeriod": "12월 중~하순",
+      "status": "학교별 확인",
+      "month": 12
+    },
+    {
+      "id": "seongbuk-114",
+      "title": "종강·겨울방학 시작",
+      "category": "student",
+      "sourcePeriod": "12월 중~하순",
+      "status": "학교별 확인",
+      "month": 12
+    },
+    {
+      "id": "seongbuk-115",
+      "title": "겨울 계절학기·기숙사 퇴실",
+      "category": "student",
+      "sourcePeriod": "12월 하순 전후",
+      "status": "학교별 확인",
+      "month": 12
+    },
+    {
+      "id": "seongbuk-117",
+      "title": "기말고사 식사·휴식 콘텐츠 발행",
+      "category": "promotion",
+      "sourcePeriod": "시험 1주 전",
+      "status": "학교 일정 연동",
+      "month": 12
+    },
+    {
+      "id": "seongbuk-118",
+      "title": "종강·겨울방학 콘텐츠 발행",
+      "category": "promotion",
+      "sourcePeriod": "종강 직전",
+      "status": "학교 일정 연동",
+      "month": 12
+    },
+    {
+      "id": "seongbuk-122",
+      "title": "설 연휴",
+      "category": "season",
+      "sourcePeriod": "해당 연도 설 연휴",
+      "status": "2~3주 전 귀향 선물 발행 / 직전 영업·휴무 확인",
+      "month": null
+    },
+    {
+      "id": "seongbuk-123",
+      "title": "정월대보름",
+      "category": "season",
+      "sourcePeriod": "음력 1/15",
+      "status": "관련 행사·먹거리 취재 여부 검토",
+      "month": null
+    },
+    {
+      "id": "seongbuk-124",
+      "title": "부처님오신날",
+      "category": "season",
+      "sourcePeriod": "음력 4/8",
+      "status": "관련 공간·프로그램 확인 후 발행",
+      "month": null
+    },
+    {
+      "id": "seongbuk-125",
+      "title": "추석 연휴",
+      "category": "season",
+      "sourcePeriod": "해당 연도 추석 연휴",
+      "status": "2~3주 전 선물 발행 / 직전 영업·휴무 확인",
+      "month": null
+    },
+    {
+      "id": "seongbuk-126",
+      "title": "입춘·입하·하지·입추·추분·입동·동지",
+      "category": "season",
+      "sourcePeriod": "해당 연도 절기 날짜",
+      "status": "연결할 계절 콘텐츠가 있을 때 발행",
+      "month": null
+    },
+    {
+      "id": "seongbuk-127",
+      "title": "대체공휴일·연휴",
+      "category": "season",
+      "sourcePeriod": "해당 연도 공휴일 배치",
+      "status": "1~2주 전 연휴 동선 발행",
+      "month": null
+    }
+  ],
+  "monthlyNotes": {
+    "1": "새해 취미 / 방학 공부 / 겨울 실내 공간",
+    "2": "졸업 / 첫 자취 / 새내기 성북 입문",
+    "3": "공강 / 혼밥 / 밥약 / 팀플",
+    "4": "봄 산책 / 중간고사 / 책 / 수선·재사용",
+    "5": "대학축제 / 감사 선물 / 부모님과 성북",
+    "6": "기말고사 / 종강 / 장마 대비",
+    "7": "혼자 보내는 방학 / 동네 취미 / 여름 음식",
+    "8": "늦여름 / 후기 졸업 / 복학·개강 준비",
+    "9": "가을학기 / 독서 / 저녁 산책",
+    "10": "단풍 / 중간고사 / 커피·문학",
+    "11": "학생 창작자 / 따뜻한 식사 / 연말 준비",
+    "12": "기말고사 / 선물 / 송년 모임 / 성북 결산"
+  }
+}
